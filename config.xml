@@ -7,16 +7,16 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>BCT APP</name>
+    <name>Everyday Market</name>
 
     <description>
-        AD's BCT App
+       Everyday market
     </description>
 
     <author href="https://bahwancybertek.com" email="anandhu.d@bahwancybertek.com">
         Anandhu Dhanapal 
     </author>
-	 <content src="http://www.bahwancybertek.com/bctmobile/index.php" />
+	 <content src="http://www.everydaymarket.in/v11" />
      <access origin="*" />
 
 </widget>
